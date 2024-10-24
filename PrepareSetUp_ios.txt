@@ -1,0 +1,20 @@
+DEALY 1000
+SPACE
+STRING informatica
+DELAY 250
+ENTER
+DELAY 2000
+GUI 
+DELAY 250
+STRING GOOGLE
+DELAY 250
+ENTER
+DELAY 750
+STRING https://github.com/brunoooost/
+DELAY 500
+ENTER
+CTRL t
+DELAY 250
+STRING https://brunoooost.github.io/info.redprotect/#inicio
+DELAY 500
+ENTER
